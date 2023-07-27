@@ -1,4 +1,4 @@
-package projects.carshowroommanagement;
+package carshowroommanagement;
 
 import java.util.Scanner;
 import java.util.UUID;
